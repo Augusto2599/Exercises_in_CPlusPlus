@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Exercises_in_CPlusPlus.iml" filepath="$PROJECT_DIR$/.idea/Exercises_in_CPlusPlus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/agenda_de_contatos.iml" filepath="$PROJECT_DIR$/.idea/agenda_de_contatos.iml" />
     </modules>
   </component>
 </project>
